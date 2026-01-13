@@ -1,4 +1,4 @@
-# Supply Chain Management Project — Sony WH-1000XM5
+## Supply Chain Management Project — Sony WH-1000XM5
 This repository contains a supply chain management project focused on **Sony WH-1000XM5 headphones**, covering demand forecasting, production planning, MPS/MRP, and inventory policy design. Deliverables include a **report**, **Excel models**, and a **presentation deck**.
 ---
 ## Project Summary
@@ -38,10 +38,9 @@ Final recommendation:
 - Review cadence: **~9-day review period** (weekly planning rhythm)
 ---
 ## Repository Contents
-- `ppt/` — presentation deck  
-- `excel/` — forecasting + planning models (calculations and scenarios)  
-- `report/` — written report (methods, assumptions, discussion)
-> If your folders use different names, rename this section to match your repo structure.
+- `ppt/` — Final Presentaiton v4.pptx
+- `Sony_report_final_support_excel/` — forecasting + planning models (calculations and scenarios)  
+- `Sony_report_final_v2/` — written report (methods, assumptions, discussion)
 ---
 ## How to Use
 1. Open the **PPT** for the overall narrative and decisions.
