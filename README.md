@@ -44,12 +44,12 @@ Final recommendation:
 ---
 ## How to Use
 1. Open the **PPT** for the overall narrative and decisions.
-2. Use the **Excel** files to inspect:
+2. Use the **Sony_report_final_support_excel** files to inspect:
   - forecast setup and validation
   - aggregate planning comparison
   - MPS/MRP outputs
   - inventory parameters and scenario impacts
-3. Read the **report** for detailed methodology and assumptions.
+3. Read the **Sony_report_final_v2** for detailed methodology and assumptions.
 ---
 ## Notes
 This work is for academic/learning purposes. Results depend on the dataset and assumptions embedded in the Excel models.
